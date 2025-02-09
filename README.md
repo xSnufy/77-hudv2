@@ -1,4 +1,5 @@
-# xSnufy 77 Hud do pobrania na tym discordzie https://discord.gg/yn6WGqhD
+# xSnufy 77 Hud 
+Do pobrania na tym discordzie https://discord.gg/yn6WGqhD
 
 ---
 
